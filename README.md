@@ -1,7 +1,7 @@
 # GenP5-Algorithm
 art project for animated algorithm visualization
 
-tool: p5.js X genp5 X runway
+tool: p5.js X [GenP5](https://github.com/KolvacS-W/AI-assisted-generative-p5-) X runway
 
 ## Gallery
 Turning algorithm inspiration into animated arts
